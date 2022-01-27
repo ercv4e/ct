@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2ffbb29d425ca67b357f1856912f5826eeb4b3ecdb4bb46bc6f94e9897e6fd86",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x2ffbb29d425ca67b357f1856912f5826eeb4b3ecdb4bb46bc6f94e9897e6fd86",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cryptora",
+  "SYMBOL": "CTNFT",
+  "MAX_SUPPLY": 522,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://mumbai.polygonscan.com/tx/0x2ffbb29d425ca67b357f1856912f5826eeb4b3ecdb4bb46bc6f94e9897e6fd86",
+  "SHOW_BACKGROUND": true
+}
